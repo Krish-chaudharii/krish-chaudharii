@@ -1,4 +1,4 @@
-<h1 align="center">Krish Chaudhary</h1>
+<h1 align="center">Krish</h1>
 
 <h3 align="center">
   AI/ML Developer | Engineering Student
@@ -25,7 +25,7 @@ I'm a pre-final-year engineering student focused on Artificial Intelligence and 
 
 My work spans machine learning, predictive modelling, software development, and product-oriented projects. I'm particularly interested in how AI can be applied to solve problems beyond the experimental stage.
 
-I also enjoy exploring the entrepreneurial side of technology — understanding problems, developing ideas, and turning them into products.
+I also enjoy exploring the entrepreneurial side of technology, understanding problems, developing ideas, and turning them into products.
 
 ### Featured Projects
 
@@ -84,15 +84,15 @@ A web application focused on making everyday journeys more accessible by evaluat
 
 ### Recognition & Leadership
 
-- **Finalist** — IIT Bombay National Entrepreneurship Challenge 2025.
-- **President** — Vividhata Club.
+- **Finalist**: IIT Bombay National Entrepreneurship Challenge 2025.
+- **President**: Vividhata Club.
 
 ---
 
 ### Let's Connect
 
 <p>
-  <a href="https://github.com/krish-chaudarii">
+  <a href="https://github.com/krish-chaudharii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
